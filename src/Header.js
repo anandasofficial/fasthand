@@ -5,7 +5,7 @@ function Header() {
     <div className='header'>
      
        <img className = "header_logo"  
-       src = "https://www.searchpng.com/wp-content/uploads/2019/01/Amazon-Logo.png"/>
+       src = "https://www.searchpng.com/wp-content/uploads/2019/01/Amazon-Logo.png" alt = ""/>
     <div className = "header_search">
     <input className = "header_searchInput" type = "text" />
 
