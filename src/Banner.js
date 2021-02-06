@@ -1,10 +1,20 @@
+import { Button } from "@material-ui/core";
 import React from "react";
 import  './Banner.css'
+
 function Banner() {
   return (
     <div className="banner">
-       
-    </div>
+        <div className = 'banner_search'>
+            <Button className = 'banner_searchButton'
+            variant = 'outlined'>Search Dates</Button>
+        </div>
+        <div className = 'banner_info'>
+            <h1>entreprenurship</h1>
+            <h5>Hey You!</h5>
+            <button variant = 'outlined'>Explore Nearby</button>
+        </div>
+    </div> 
   );
 }
 
