@@ -11,7 +11,7 @@ function Banner() {
         </div>
         <div className = 'banner_info'>
             <h1>entreprenurshipo</h1>
-            <h5>Hey You!</h5>
+            <h5>Hey You! no</h5>
             <button variant = 'outlined'>Explore Nearby</button>
         </div>
     </div> 
