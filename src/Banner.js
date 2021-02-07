@@ -10,7 +10,7 @@ function Banner() {
             variant = 'outlined'>Search Dates</Button>
         </div>
         <div className = 'banner_info'>
-            <h1>entreprenurship</h1>
+            <h1>entreprenurshipo</h1>
             <h5>Hey You!</h5>
             <button variant = 'outlined'>Explore Nearby</button>
         </div>
