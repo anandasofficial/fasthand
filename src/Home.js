@@ -6,6 +6,16 @@ function Home() {
     <div className="home">
         
       <Banner/>
+      <div className = 'home_section'>
+        <card/>
+        <card/>
+        <card/>
+        </div>
+        <div className = 'home_section'>
+          <card/>
+          <card/>
+          <card/>
+        </div>
        
     </div>
   );
