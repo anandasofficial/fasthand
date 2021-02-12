@@ -7,7 +7,7 @@ function Banner() {
     <div className="banner">
         <div className = 'banner_search'>
             <Button className = 'banner_searchButton'
-            variant = 'outlined'>Search Dates</Button>
+            variant = 'outlined'>Search Datess</Button>
         </div>
         <div className = 'banner_info'>
             <h1>entreprenurshipo</h1>
